@@ -66,5 +66,6 @@ java CoffeeMakerApp
 
 ## Author
 
-Name : Hussam
-Roll no : 24SW023
+Name : Hussam and Javeria
+Roll no : 24SW023 and 24SW117
+
